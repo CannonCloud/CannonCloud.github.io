@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at Goethe Univeristy Frankfurt.
+I am a PhD Candidate in Economics at Goethe University Frankfurt.
 
 I am an applied microeconomist with a focus on mobility, development and the environment. I study how mobility effects developmental and environmental outcomes using administrative and remote sensed data and methods from microeconometrics.
 
