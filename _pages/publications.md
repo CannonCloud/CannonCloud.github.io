@@ -21,8 +21,8 @@ author_profile: true
 
 ## Work in Progress
 	
-1. <span style="color:Black; font-size: 16px;"> Bridging Seasonal Disconnectivity in Rural Rwanda: Economic and Environmental Impacts of Trailbridges. </span> <br>
+1. <span style="color:Black; font-size: 16px;"> Bridging Seasonal Disconnectivity in Rural Rwanda: Economic and Environmental Impacts of Trailbridges. (Draft on request) </span> <br>
 
 	<p style="color:Black; font-size: 14px;"> I measure the impact of trailbridges connecting rural Rwandan villages on remote-sensed developmental and ecological outcomes. Modern trailbridges provide safe and consistent commutes to work, school, markets and healthcare. To identify the causal effect of increasing villagers’ mobility, I use variation in bridge construction timing and feasibility to compare villages in similar need of a bridge. The average treatment effect is a 3% increase in population, a 15% increase in night time light, a 17% increase in maize-cultivated area, and a 40% reduction in deforestation, indicative of improved biomass fuel market efficiency due to trade. Comparing villages on either side of the bridge by distance to all-weather roads reveals consistent effects. These findings underscore the value of completing missing pedestrian links with affordable infrastructure in fostering socio-economic development and environmental sustainability. </p> 
 	
-	<span style="color:Black; text-align: justify; font-size: 14px; display: inline-block; width: 75%;"> <b>Presentations:</b> German Development Economics Conference 2024, Hannover; Frankfurt-Heidelberg-Mannehiem Development Workshop, Frankfurt 2023;  Frankfurt-Heidelberg-Mannehiem Development Workshop, Heidelberg 2022 </span> <br>
+	<span style="color:Black; text-align: justify; font-size: 14px; display: inline-block; width: 75%;"> <b>Presentations:</b> German Development Economics Conference, Hannover 2024; Frankfurt-Heidelberg-Mannheim Development Workshop, Frankfurt 2023;  Frankfurt-Heidelberg-Mannheim Development Workshop, Heidelberg 2022 </span> <br>
