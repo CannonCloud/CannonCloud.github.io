@@ -11,4 +11,4 @@ redirect_from:
 
 Click here for my [CV](https://cannoncloud.github.io/files/CloudCV.pdf).
 
-![CloudCV](https://cannoncloud.github.io/files/CloudCV.pdf)  
+<iframe src="/files/CloudCV.pdf" height="700" width="850" style="border:none;"></iframe>
