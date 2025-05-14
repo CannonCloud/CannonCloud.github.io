@@ -26,7 +26,7 @@ author:
   pronouns         :  "He/him"  
   bio              : "PhD Candidate in Economics at Goethe University Frankfurt, studying development, mobility and the environment."
   location         : "Frankfurt, Germany"
-  employer         : "Goethe University Frankfurt"
+  employer         : "Goethe University Frankfurt, WZB"
   uri              : # URL
   email            : "cloud@econ.uni-frankfurt.de" 
 
@@ -65,7 +65,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "WinCannonWin"
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
