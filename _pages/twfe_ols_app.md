@@ -37,4 +37,4 @@ The app also includes more robust, recently developed estimators designed to add
 
 Experiment with these alternative estimators in the app to see how they perform under different data generating processes you define. This can help illustrate their strengths and limitations in practical scenarios.
 
-I encourage you to use creat the most messed up lots you can!
+I encourage you to create the most messed up plots you can, and hopefully learn something!
