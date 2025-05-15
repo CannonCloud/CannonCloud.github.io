@@ -10,9 +10,9 @@ This page provides access to an interactive application designed for exploring t
 
 **[Click here to launch the TWFE OLS Play Around App](https://cannoncloud.shinyapps.io/TWFE_OLS_Play_Around/)**
 
-### Understanding the Challenges with TWFE
+### Understanding the Challenges with OLS/TWFE
 
-The Two-Way Fixed Effects (TWFE) estimator is a widely used method for causal inference with panel data when treatment is **binary, terminal, and adopted in a staggered fashion across units**. It aims to control for unobserved time-invariant unit-specific confounders (unit fixed effects) and common time-specific shocks (time fixed effects). However, recent econometric research has highlighted several challenges, particularly when treatment effects are heterogeneous across units and over time, and when treatment timing is staggered.
+The OLS/TWFE estimator is a widely used method for causal inference with panel data when treatment is **binary, terminal, and adopted in a staggered fashion across units**. It aims to control for unobserved time-invariant unit-specific confounders (unit fixed effects) and common time-specific shocks (time fixed effects). However, recent econometric research has highlighted several challenges, particularly when treatment effects are heterogeneous across units and over time, and when treatment timing is staggered.
 
 *(It's important to note that while this application focuses on binary and terminal treatments, the challenges discussed can be even more pronounced when dealing with continuous treatments or treatments that are not terminal (i.e., units can switch in and out of treatment). These scenarios introduce further complexities in defining and estimating relevant treatment effect parameters, especially within a staggered adoption framework. For a collection of papers discussing various DiD designs, including those with continuous treatments, see the appendix of Baker, A., Callaway, B., Cunningham, S., Goodman-Bacon, A., & Sant’Anna, P. H. C. (2025), "Difference-in-Differences Designs: A Practitioner’s Guide," available at https://arxiv.org/pdf/2503.13323. For issues related to treatments that are not terminal (treatment switchers), see also De Chaisemartin, C., & D’Haultfœuille, X., "Difference-in-Differences Estimators of Intertemporal Treatment Effects," *The Review of Economics and Statistics*)*
 
