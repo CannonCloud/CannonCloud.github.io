@@ -4,15 +4,15 @@ title: "TWFE OLS Interactive App"
 permalink: /shiny-app/
 author_profile: true
 ---
-## Interactive OLS/TWFE Playground
+## Interactive TWFE/OLS Playground
 
 This page provides access to an interactive application designed for exploring the nuances of estimating treatment effects using traditional Ordinary Least Squares (OLS) with Two-Way Fixed Effects (TWFE) models, especially in settings with staggered adoption **of a binary and terminal treatment**.
 
 **[Click here to launch the TWFE OLS Play Around App](https://cannoncloud.shinyapps.io/TWFE_OLS_Play_Around/)**
 
-### Understanding the Challenges with OLS/TWFE
+### Understanding the Challenges with TWFE/OLS
 
-The OLS/TWFE estimator is a widely used method for causal inference with panel data when treatment is **binary, terminal, and adopted in a staggered fashion across units**. It aims to control for unobserved time-invariant unit-specific confounders (unit fixed effects) and common time-specific shocks (time fixed effects). However, recent econometric research has highlighted several challenges, particularly when treatment effects are heterogeneous across units and over time, and when treatment timing is staggered.
+The TWFE/OLS estimator is a widely used method for causal inference with panel data when treatment is **binary, terminal, and adopted in a staggered fashion across units**. It aims to control for unobserved time-invariant unit-specific confounders (unit fixed effects) and common time-specific shocks (time fixed effects). However, recent econometric research has highlighted several challenges, particularly when treatment effects are heterogeneous across units and over time, and when treatment timing is staggered.
 
 *(It's important to note that while this application focuses on binary and terminal treatments, the challenges discussed can be even more pronounced when dealing with continuous treatments or treatments that are not terminal (i.e., units can switch in and out of treatment). These scenarios introduce further complexities in defining and estimating relevant treatment effect parameters, especially within a staggered adoption framework. For a collection of papers discussing various DiD designs, including those with continuous treatments, see the appendix of Baker, A., Callaway, B., Cunningham, S., Goodman-Bacon, A., & Sant’Anna, P. H. C. (2025), "Difference-in-Differences Designs: A Practitioner’s Guide," available at https://arxiv.org/pdf/2503.13323. For issues related to treatments that are not terminal (treatment switchers), see also De Chaisemartin, C., & D’Haultfœuille, X., "Difference-in-Differences Estimators of Intertemporal Treatment Effects," *The Review of Economics and Statistics*)*
 
@@ -28,7 +28,7 @@ This interactive application allows you to simulate panel data (assuming a **bin
 * **Violations of parallel trends (correlated with treatment timing):** Introduce differing underlying trends between groups that are linked to when they get treated.
 * **Differential factor loadings (correlated with treatment timing):** Simulate scenarios where unobserved common shocks have varied impacts that are linked to treatment timing.
 
-By manipulating these parameters, you can visualize the resulting biases in the TWFE estimator and gain a deeper intuition for when OLS/TWFE fails and how badly.
+By manipulating these parameters, you can visualize the resulting biases in the TWFE estimator and gain a deeper intuition for when TWFE/OLS fails and how badly.
 
 ### Alternative Estimators Available in this App
 
